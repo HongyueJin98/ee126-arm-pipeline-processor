@@ -49,9 +49,6 @@ The processor was built incrementally throughout the course and integrates the c
 src/
     VHDL source files
 
-testbench/
-    Simulation testbenches
-
 images/
     Architecture diagrams and simulation screenshots
 
